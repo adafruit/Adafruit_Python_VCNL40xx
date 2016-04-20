@@ -15,7 +15,7 @@ vcnl = Adafruit_VCNL40xx.VCNL4010()
 #vcnl = Adafruit_VCNL40xx.VCNL4000()
 
 # You can also override the I2C device address and/or bus with parameters:
-#vcnl = Adafruit_VCNL40xx.VCNL4010(address=0x14, bus=2)
+#vcnl = Adafruit_VCNL40xx.VCNL4010(address=0x14, busnum=2)
 
 print('Printing proximity data (press Ctrl-C to quit)...')
 while True:
