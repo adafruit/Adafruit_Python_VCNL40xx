@@ -12,7 +12,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: System :: Hardware']
 
 setup(name              = 'Adafruit_VCNL40xx',
-      version           = '1.0.0',
+      version           = '1.0.1',
       author            = 'Tony DiCola',
       author_email      = 'tdicola@adafruit.com',
       description       = 'Python code to use the VCNL4000 & VCNL4010 proximity sensors with the Raspberry Pi & BeagleBone Black.',
